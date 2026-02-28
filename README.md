@@ -22,6 +22,7 @@ Fork of [BetterCapture](https://github.com/jsattler/BetterCapture) — a native 
 - Discreet mode, output subdirectories, minimum duration filter
 - Audio codec conversion (multi-format support via symphonia)
 - Start on login toggle
+- [Alfred workflows for quick access](https://github.com/ahoendgen/BetterCapture/tree/supercharged/SuperCapture-Alfred)
 - Stability fixes (menu bar hang, race conditions, audio path handling)
 
 ### <img src="assets/handy-supercharged.png" width="32" align="top" /> [Handy Supercharged](https://github.com/ahoendgen/Handy/tree/supercharged)
