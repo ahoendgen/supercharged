@@ -14,7 +14,7 @@ Fork of [BetterCapture](https://github.com/jsattler/BetterCapture) — a native 
 
 **Changes:**
 - Rebranded to SuperCapture (custom name, icons, update feed)
-- Post-recording transcription via Parakeet V3
+- [Post-recording transcription via Parakeet V3](https://github.com/ahoendgen/BetterCapture/tree/supercharged/supercapture-transcribe)
 - Audio-only recording mode with optional video toggle
 - Dual-audio WAV output
 - Post-recording hooks for custom automation
