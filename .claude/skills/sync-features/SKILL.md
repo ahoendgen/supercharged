@@ -1,7 +1,7 @@
 ---
 name: sync-features
 description: Extract all custom features from supercharged fork git logs and update the README
-disable-model-invocation: true
+disable-model-invocation: false
 allowed-tools: Bash(git *), Read, Edit, Glob
 ---
 
