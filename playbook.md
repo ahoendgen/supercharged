@@ -15,9 +15,19 @@ Step-by-step guide for setting up a new supercharged fork. Run through these ste
 git checkout -b supercharged
 ```
 
-### 2. Rebrand the app
+### 2. Set up VS Code Peacock color
+
+Run `./list-peacock-colors.sh` to see which colors are already in use, then pick a distinct color for the new project:
+
+```bash
+mkdir -p .vscode
+echo '{ "peacock.color": "#XXXXXX" }' > .vscode/settings.json
+```
+
+### 3. Rebrand the app
 
 Ask the user:
+
 - Naming: **Super{Name}**, **{Name} Supercharged**, or something else?
 - Color scheme / theme preference?
 
