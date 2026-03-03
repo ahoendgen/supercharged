@@ -43,7 +43,11 @@ Fork of [SideNote](https://github.com/mofukuru/SideNote) -- an Obsidian plugin f
 **Changes:**
 
 - Rebranded to SideNote Supercharged (custom plugin ID for side-by-side install)
-- _(features in development)_
+- File-level comments — add comments to an entire file, not just text selections
+- Inline comment section — view and manage comments directly in the note
+- Threaded replies on comments
+- JSONL-based comment storage alongside the standard data.json
+- CLI for AI agent and automation comment management with nanoid-based IDs and auto vault detection
 
 ## How it works
 
