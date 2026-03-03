@@ -48,6 +48,8 @@ Fork of [SideNote](https://github.com/mofukuru/SideNote), an Obsidian plugin for
 - Threaded replies on comments
 - JSONL-based comment storage alongside the standard data.json
 - CLI for AI agent and automation comment management with nanoid-based IDs and auto vault detection
+- Live sync: file watcher on comments.jsonl for instant CLI updates, merging external changes instead of overwriting
+- Timestamps shown as dd.mm.yyyy with locale-aware relative time
 
 ## How it works
 
