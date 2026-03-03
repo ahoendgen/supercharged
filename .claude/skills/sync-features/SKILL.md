@@ -16,6 +16,7 @@ For each repo:
 4. If there are no new commits, skip this repo entirely — do not touch any README
 5. Analyze all new commits (feat, fix, refactor, chore, style, docs, etc.) to understand the full picture of what was changed
 6. Distill the commits into concise feature bullets that describe what the fork adds or changes compared to upstream. Never use em dashes (`—`) or double dashes (`--`). Use commas or colons instead.
+   - Only list **significant features**: new capabilities, new integrations, or major behavioral changes. Skip small incremental improvements to existing features (e.g. minor UI tweaks, adding a single subcommand to an existing CLI, formatting changes). If new commits only contain small increments, update `lastCheckedCommit` but do not change the READMEs.
 7. If a feature lives in its own subdirectory (e.g. `supercapture-transcribe/`, `SuperCapture-Alfred/`), link the bullet to that directory on GitHub: `[Feature description](https://github.com/ahoendgen/{repo}/tree/supercharged/{subdir})`
 
 Then update **two READMEs** for repos that had new commits:
