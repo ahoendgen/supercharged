@@ -34,6 +34,8 @@ Fork of [Handy](https://github.com/cjpais/Handy), a free, offline speech-to-text
 
 - Rebranded to Handy-Supercharged (custom name, app icons, electric blue theme, lightning bolt tray icon)
 - Trigger words: define words/phrases that execute actions during transcription (e.g. saying "enter" presses Enter), with reliable multi-trigger support
+- Instant mute via CoreAudio when recording stops, preventing end sounds from being captured
+- Separate start and stop sound toggles for audio feedback
 - Disabled upstream update checker (independent release cycle)
 
 ### [SideNote Supercharged](https://github.com/ahoendgen/SideNote/tree/supercharged)

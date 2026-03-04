@@ -1,0 +1,26 @@
+[
+  {
+    "name": "SuperCapture",
+    "repo": "https://github.com/ahoendgen/BetterCapture",
+    "upstream": "https://github.com/jsattler/BetterCapture",
+    "branch": "supercharged",
+    "localPath": "/Users/andre/projects/opensource/BetterCapture",
+    "lastCheckedCommit": "4c3addd2f3988e0151eb578036f6da71048438ac"
+  },
+  {
+    "name": "Handy Supercharged",
+    "repo": "https://github.com/ahoendgen/Handy",
+    "upstream": "https://github.com/cjpais/Handy",
+    "branch": "supercharged",
+    "localPath": "/Users/andre/projects/opensource/Handy",
+    "lastCheckedCommit": "220d31a9fa1bf3d586e5572254f9dc021981f8ca"
+  },
+  {
+    "name": "SideNote Supercharged",
+    "repo": "https://github.com/ahoendgen/SideNote",
+    "upstream": "https://github.com/mofukuru/SideNote",
+    "branch": "supercharged",
+    "localPath": "/Users/andre/projects/opensource/SideNote",
+    "lastCheckedCommit": "b8f5b26948635d053a3cd94116c5bf74d6b56465"
+  }
+]
